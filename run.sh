@@ -1,4 +1,4 @@
-#!/bin/sh
+
 
 NAME=ipam-service
 APP_DIR=.
